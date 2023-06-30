@@ -1,0 +1,1 @@
+track type=bigBed name="PHRIC + R-scape" useScore=1 description="PHRIC predictions colored by e-value of compensatory substitutions" bigDataUrl=https://github.com/zavilev/PHRIC_Rscape_track/raw/main/PHRIC_Rscape.bb
