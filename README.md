@@ -1,1 +1,1 @@
-USCS genome browser track with conserved complemantary RNA structures supported by compansatory substitutions (analysed with Rscape).
+USCS genome browser track with conserved complementary RNA structures supported by compensatory substitutions (analysed with Rscape).
