@@ -1,0 +1,1 @@
+track type=bigBed name="Conseravtive islands" useScore=1 description="Conseravtive islands of size 10-40nts: mean phastcons - mean phastcons 0f 10nt-flanks > 0.6" bigDataUrl=https://github.com/zavilev/PHRIC_Rscape_track/raw/main/conservative_islands.bb
